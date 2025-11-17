@@ -1,0 +1,51 @@
+@media (width>768px) {
+    body {
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .cont {
+        width: 564px;
+        height: 884px;
+    }
+
+    header {
+        width: 562px;
+        height: 442px;
+        background-image: url(./assets/Bitmaptab.svg);
+    }
+
+    main {
+        width: 564px;
+        height: 442px;
+        padding: 80.25px;
+    }
+
+    .txt {
+        width: 403.5px;
+        height: 189px;
+        text-align: left;
+    }
+
+    h1 {
+        font-size: 36px;
+    }
+
+    h2 {
+        font-size: 15px;
+        margin-top: 24px;
+    }
+
+    .txt1 {
+        width: 354.5px;
+        height: 53px;
+        display: flex;
+        flex-direction: row;
+        gap: 64px;
+        margin-top: 72px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+}
