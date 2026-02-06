@@ -13,12 +13,14 @@
         width: 562px;
         height: 442px;
         background-image: url(./assets/Bitmaptab.svg);
+        border-radius: 0px 10px 10px 0px;
     }
 
     main {
         width: 564px;
         height: 442px;
         padding: 80.25px;
+        border-radius: 10px 0px 0px 10px;
     }
 
     .txt {
