@@ -1,4 +1,4 @@
-@media (width>768px) {
+@media (min-width:768px) {
     body {
         width: 100vw;
         height: 100vh;

@@ -14,7 +14,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    min-height: 100dvh;
     user-select: none;
     background-color: #0A0C1C;
     font-family: "Inter", "Lexend Deca", sans-serif;
